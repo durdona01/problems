@@ -51,14 +51,14 @@
 20) n va x sonlar berilgan 0 dan n gacha sonlar orasida x ga bo'linadigan sonlarni topuvchi dastur tuzing
 21) n va x sonlar berilgan quydagi yigindini topuvchi dastur tuzing. 1(1,2,3…x) + 2(1,2,3..x) + .. + n(1,2,3,..x)!
 # Data types 
-1) Uzunligi L berilgan Undagi to'liq metrlar sonini aniqlovchi progrramm tuzing!
-2) Og'irligi M kg da berilgan Uning to'liq tonnalar sonini aniqlang. 1t = 1000kg
-3) A va  B musbat sonlar (A > B a b dan katta) A kesmada B kesmani necha marta joylashtirish mumkin!
-4) Ikki xonali son berilgan uning o'nliklar xonasidagi va birliklar xonasida raqamini aniqlang!
-5) Ikki xonali son berilgan uning raqamlar yig'indisin topuvchi programma tuzing!
-6) Ikki xonali son berilgan Uning raqamlar ko'paytmasini topuvchi programma tuzing!
+1) Uzunligi L berilgan. Undagi to'liq metrlar sonini aniqlovchi programma tuzing!
+2) Og'irligi M kg da berilgan. Uning to'liq tonnalar sonini aniqlang. 1t = 1000kg.
+3) A va  B musbat sonlar (A > B a b dan katta). A kesmada B kesmani necha marta joylashtirish mumkin!
+4) Ikki xonali son berilgan, uning o'nliklar xonasidagi va birliklar xonasida raqamini aniqlang!
+5) Ikki xonali son berilgan, uning raqamlar yig'indisin topuvchi programma tuzing!
+6) Ikki xonali son berilgan. Uning raqamlar ko'paytmasini topuvchi programma tuzing!
 7) 999 dan katta son berilgan bolib butun olib va qoldiqli bo'lish operatsiyasidan foydalanib yuzlarni topuvchi dastur tuzing!
-8) Kun boshidan N sekund o'tdi kun boshidan necha minut, soat, o'tganligin aniqlang
+8) Kun boshidan N sekund o'tdi, kun boshidan necha minut, soat, o'tganligin aniqlang
 # For
 1) k va n butun son berilgan. K ni n marta chiqaruvchi dastur tuzing
 2) a, b sonlar beilgan. A b dan katta a va b orasidagi butun sonlarni chiqaruvchi dastur tuzing. A va B ni ozi ham chiqsin
